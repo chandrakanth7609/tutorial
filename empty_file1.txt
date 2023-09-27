@@ -1,3 +1,4 @@
 Hi
-Hello everyone this is my firt coomit file into git
- newly added line
+Hello everyone this is my first commit file into git
+newly added line
+hope i'll start my projects ASAP!
